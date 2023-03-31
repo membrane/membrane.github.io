@@ -1,0 +1,6 @@
+[membrane-repo]
+name=Membrane's RPM Repo
+baseurl=https://membrane.github.io/rpm/fc39/packages
+enabled=1
+gpgcheck=1
+gpgkey=https://membrane.github.io/rpm/fc39/pgp-key.public

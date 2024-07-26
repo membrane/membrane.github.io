@@ -1,0 +1,7 @@
+[membrane-repo]
+name=Membrane's RPM Repo
+baseurl=https://membrane.github.io/rpm/stable/el8/packages
+enabled=1
+gpgcheck=1
+gpgkey=https://membrane.github.io/rpm/pgp-key.public
+
